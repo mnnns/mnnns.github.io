@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.554094ce.css",
+    "main.js": "/static/js/main.cc228225.js",
+    "static/js/488.4d7cb5e1.chunk.js": "/static/js/488.4d7cb5e1.chunk.js",
+    "static/media/glasses-lie-laptop-reflecting-light-from-screen-dark.jpg": "/static/media/glasses-lie-laptop-reflecting-light-from-screen-dark.335a3ea5e36b500ef519.jpg",
+    "static/media/proj1-1.png": "/static/media/proj1-1.6740486ef534289aad0e.png",
+    "static/media/proj1.png": "/static/media/proj1.b2177ccc9eceb14d522a.png",
+    "static/media/proj3.png": "/static/media/proj3.8370dae999fac2f4746e.png",
+    "static/media/proj2.png": "/static/media/proj2.4e971c9f84c94d48f7c1.png",
+    "static/media/proj2-1.png": "/static/media/proj2-1.c041cebcbeb177a03342.png",
+    "index.html": "/index.html",
+    "main.554094ce.css.map": "/static/css/main.554094ce.css.map",
+    "main.cc228225.js.map": "/static/js/main.cc228225.js.map",
+    "488.4d7cb5e1.chunk.js.map": "/static/js/488.4d7cb5e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.554094ce.css",
+    "static/js/main.cc228225.js"
+  ]
+}
